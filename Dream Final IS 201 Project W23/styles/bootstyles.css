@@ -1,0 +1,21 @@
+.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: double;
+    Height: 100px;
+    background-color: lightpink;
+    line-height: 100px
+    
+
+}
+.footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: double;
+    Height: 100px;
+    background-color: bisque;
+    line-height: 100px
+}
+
+body{
+background-color: beige;
+
+}
